@@ -9,7 +9,7 @@ const Navbar = () => (
     <Link to="/" style={{ display: "flex", alignItems: "center" }}>
       <div className="logo-name" style={{display:'flex', gap:'10px'}}>
       <img src={logo} alt="logo" height={45} />
-      <Typography className="logo-varient" variant="h4" fontWeight="bold" mb={2} sx={{ color: "white" }}>
+      <Typography className="logo-name" variant="h4" fontWeight="bold" mb={2} sx={{ color: "white" }}>
           <span >Play Loop</span>
         </Typography>
       </div>
