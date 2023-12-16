@@ -99,7 +99,7 @@ a {
 
 }
 @media screen and (max-width:370px) {
-  .logo-name .logo-name{
+  .logo-name .logo-varient{
     display: none;
   }
 
